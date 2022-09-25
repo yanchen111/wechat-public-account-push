@@ -82,7 +82,7 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '宝宝', year: '1996', date: '09-09',
+          type: '*生日', name: '宝宝', year: '1999', date: '06-27',
         },
         
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
@@ -224,7 +224,7 @@ const USER_CONFIG = {
       // 一般都填自己
       name: '自己',
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ycDafmi1xyMGtblNRpkUBUadlF0O_Ht_0zPY4HsIg4M',
+      id: 'oGau45s210ZQySljHcypCy-ttOQ4',
     }
     // 你可以不断按格式往下增加
     // ...
